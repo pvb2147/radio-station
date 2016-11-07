@@ -1,0 +1,6 @@
+\\banner.main.ad.rit.edu\students\pvb2147\IGMProfile\Desktop\IGME102\RadioStation\RadioStation\bin\Debug\RadioStation.exe.config
+\\banner.main.ad.rit.edu\students\pvb2147\IGMProfile\Desktop\IGME102\RadioStation\RadioStation\bin\Debug\RadioStation.exe
+\\banner.main.ad.rit.edu\students\pvb2147\IGMProfile\Desktop\IGME102\RadioStation\RadioStation\bin\Debug\RadioStation.pdb
+\\banner.main.ad.rit.edu\students\pvb2147\IGMProfile\Desktop\IGME102\RadioStation\RadioStation\obj\Debug\RadioStation.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\pvb2147\IGMProfile\Desktop\IGME102\RadioStation\RadioStation\obj\Debug\RadioStation.exe
+\\banner.main.ad.rit.edu\students\pvb2147\IGMProfile\Desktop\IGME102\RadioStation\RadioStation\obj\Debug\RadioStation.pdb
